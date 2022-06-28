@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://pandcoutdoor.com/sitemap.xml
